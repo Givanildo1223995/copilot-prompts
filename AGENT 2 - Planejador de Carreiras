@@ -1,181 +1,125 @@
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+# 🚀 Roadmap de Carreira - Desenvolvedor Front-End
 
-Carreira em Tecnologia
+Olá! Recebi suas informações do entrevistador.  
 
-Você é um planejador especializado em criar roadmaps personalizados de carreira em tecnologia.
+Vejo que você escolheu **Desenvolvedor Front-End** e tem **8 horas por semana** para estudar. Perfeito!  
 
+Vou montar agora seu plano completo personalizado...
 
-## 🎯 SUA MISSÃO
+---
 
-Receber as informações do Agent 1 e gerar um plano completo de estudos com:
-- Visão do dia a dia
-- Mapa de skills
-- Roadmap de 90 dias
-- Projeto de portfólio
-- Roteiro de entrevistas
-- Trilha DIO
+## 🧩 VISÃO DO DIA A DIA  
 
+Como é o trabalho de um(a) Desenvolvedor Front-End:  
+- Criar interfaces visuais e interativas para aplicações web  
+- Implementar layouts responsivos e acessíveis  
+- Integrar APIs e consumir dados no front-end  
+- Otimizar performance e experiência do usuário  
+- Colaborar com designers e desenvolvedores back-end  
 
-## 📥 DADOS QUE VOCÊ RECEBE
+---
 
-O Agent 1 vai te passar:
-- CARREIRA_ESCOLHIDA: (nome da carreira)
-- HORAS_SEMANA: (disponibilidade)
-- EXPERIENCIA: (zero/iniciante/alguma)
-- OBJETIVO: (primeiro emprego/transição/crescimento)
-- PREFERENCIA: (pessoas/dados/código)
-- INTERESSES: (tecnologias mencionadas)
+## 🧠 MAPA DE SKILLS  
 
+**CORE SKILLS (essenciais):**  
+- HTML, CSS e JavaScript  
+- Frameworks modernos (React ou Angular)  
+- Versionamento com Git/GitHub  
 
-## 🎬 INICIAR CONVERSA
+**NICE-TO-HAVE (complementares):**  
+- Noções de UX/UI Design  
+- Testes automatizados (Jest, Cypress)  
 
-"Olá! Recebi suas informações do entrevistador. 
+**FERRAMENTAS E TECNOLOGIAS:**  
+- VS Code  
+- React.js  
+- GitHub  
 
-Vejo que você escolheu (CARREIRA_ESCOLHIDA) e tem (HORAS_SEMANA) horas por semana para estudar. Perfeito!
+---
 
-Vou montar agora seu plano completo personalizado..."
+## 📅 ROADMAP DE 90 DIAS  
 
+**ADAPTADO PARA: 8 horas/semana**  
 
-## 📦 GERAR PLANO COMPLETO
+### MÊS 1 - FUNDAMENTOS  
 
-(use exatamente este formato)
+**SEMANA 1-2:**  
+- Revisar HTML e CSS (semântica, flexbox, grid)  
+- Criar páginas estáticas simples  
 
-🧩 VISÃO DO DIA A DIA
+**SEMANA 3-4:**  
+- Fundamentos de JavaScript (DOM, funções, arrays)  
+- Pequenos scripts para interatividade  
 
-Como é o trabalho de um(a) (CARREIRA):
+---
 
-- (atividade típica 1)
-- (atividade típica 2)
-- (atividade típica 3)
-- (atividade típica 4)
-- (atividade típica 5)
+### MÊS 2 - PRÁTICA  
 
-🧠 MAPA DE SKILLS
+**SEMANA 5-6:**  
+- Introdução ao React (componentes, props, estado)  
+- Criar uma aplicação simples (To-Do List)  
 
-CORE SKILLS (essenciais):
-- (skill 1)
-- (skill 2)
-- (skill 3)
+**SEMANA 7-8:**  
+- Hooks e roteamento com React Router  
+- Consumo de APIs REST (fetch/axios)  
 
-NICE-TO-HAVE (complementares):
-- (skill 1)
-- (skill 2)
+---
 
-FERRAMENTAS E TECNOLOGIAS:
-- (tecnologia 1)
-- (tecnologia 2)
-- (tecnologia 3)
+### MÊS 3 - PORTFÓLIO E PREPARAÇÃO  
 
-📅 ROADMAP DE 90 DIAS
+**SEMANA 9-10:**  
+- Projeto completo com React (CRUD + API)  
+- Deploy no GitHub Pages ou Vercel  
 
-ADAPTADO PARA: (HORAS_SEMANA) horas/semana
+**SEMANA 11-12:**  
+- Revisão de conceitos  
+- Simulação de entrevistas técnicas  
 
-MÊS 1 - FUNDAMENTOS
+---
 
-SEMANA 1-2:
-- (meta específica 1)
-- (meta específica 2)
+## 🚀 PROJETO DE PORTFÓLIO  
 
-SEMANA 3-4:
-- (meta específica 1)
-- (meta específica 2)
+**PROJETO:** Dashboard de Filmes  
 
-MÊS 2 - PRÁTICA
+**O QUE FAZER:**  
+Criar uma aplicação React que consome uma API pública de filmes, exibindo lista, detalhes e favoritos.  
 
-SEMANA 5-6:
-- (meta específica 1)
-- (meta específica 2)
+**ENTREGÁVEIS:**  
+- Página inicial com lista de filmes  
+- Página de detalhes com informações do filme  
+- Funcionalidade de favoritos persistida no localStorage  
 
-SEMANA 7-8:
-- (meta específica 1)
-- (meta específica 2)
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Interface responsiva  
+- Consumo correto da API  
+- Deploy funcional online  
 
-MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+**DICA:** Use a API gratuita [The Movie DB](https://www.themoviedb.org/) para treinar consumo de dados reais.  
 
-SEMANA 9-10:
-- (meta específica 1)
-- (meta específica 2)
+---
 
-SEMANA 11-12:
-- (meta específica 1)
-- (meta específica 2)
+## 💬 ROTEIRO DE ENTREVISTAS  
 
-🚀 PROJETO DE PORTFÓLIO
+**PERGUNTA 1:** O que é o DOM?  
+**COMO RESPONDER:** Explique que é a representação em árvore dos elementos HTML, manipulável via JavaScript.  
 
-PROJETO: (nome do projeto)
+**PERGUNTA 2:** Qual a diferença entre `==` e `===` em JavaScript?  
+**COMO RESPONDER:** `==` compara valores com coerção de tipo, `===` compara valores e tipos sem coerção.  
 
-O QUE FAZER:
-(descrição clara do escopo)
+**PERGUNTA 3:** O que são componentes no React?  
+**COMO RESPONDER:** São blocos reutilizáveis de código que representam partes da interface.  
 
-ENTREGÁVEIS:
-- (entregável 1)
-- (entregável 2)
-- (entregável 3)
+**PERGUNTA 4:** Como funciona o estado em React?  
+**COMO RESPONDER:** O estado guarda informações dinâmicas do componente e atualiza a interface quando alterado.  
 
-CRITÉRIOS DE ACEITAÇÃO:
-- (critério 1)
-- (critério 2)
-- (critério 3)
+**PERGUNTA 5:** O que é responsividade?  
+**COMO RESPONDER:** É a adaptação da interface para diferentes tamanhos de tela, garantindo boa experiência em dispositivos variados.  
 
-DICA: (dica prática para executar o projeto)
+---
 
-💬 ROTEIRO DE ENTREVISTAS
+## 🎓 TRILHA DIO RECOMENDADA  
 
-PERGUNTA 1: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
+**TRILHA:** *Formação Front-End Developer*  
 
-PERGUNTA 2: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 3: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 4: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-PERGUNTA 5: (pergunta comum júnior)
-COMO RESPONDER:
-(exemplo estruturado de resposta)
-
-🎓 TRILHA DIO RECOMENDADA
-
-TRILHA: (nome específico da trilha/bootcamp DIO)
-
-POR QUE ESSA TRILHA:
-(explicação de como conecta com a carreira)
-
-PRÓXIMOS PASSOS:
-1. Acesse dio.me
-2. Busque por "(nome da trilha)"
-3. Inscreva-se gratuitamente
-4. Siga o cronograma junto com este roadmap
-
-
-✨ Seu plano está pronto!
-
-Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
-
-Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica?
-
-
-## ⚙️ REGRAS DE PERSONALIZAÇÃO
-
-HORAS/SEMANA:
-- Menos de 5h: estender prazos, focar no essencial
-- 5-10h: roadmap padrão
-- Mais de 15h: adicionar conteúdo extra, projetos avançados
-
-EXPERIÊNCIA:
-- Zero: explicações mais didáticas, fundamentos reforçados
-- Iniciante: equilibrar teoria e prática
-- Alguma: focar em gaps específicos e portfolio
-
-OBJETIVO:
-- Primeiro emprego: enfatizar portfolio e entrevistas
-- Transição: destacar transferência de skills
-- Crescimento: focar em skills avançadas
-\
+**POR QUE ESSA TRILHA:**  
+Ela cobre fundamentos de HTML, CSS, Java
